@@ -4,5 +4,5 @@ nav:
   - Overview: overview.md
   - Login Gateway: logingw.md
   - User Guide:
-    - Getting Started: userguide/getting-started.md
-    - Configuration: userguide/configuration-option.md
+    - Getting Started: ./userguide/getting-started.md
+    - Configuration: ./userguide/configuration-option.md
