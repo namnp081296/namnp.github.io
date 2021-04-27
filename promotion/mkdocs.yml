@@ -3,3 +3,6 @@ site_name: Promotion
 nav:
   - Reference: reference.md
   - Changelog: changelog.md
+  - User Guide:
+    - Getting Started: userguide/getting-started.md
+    - Configuration: userguide/configuration-option.md
