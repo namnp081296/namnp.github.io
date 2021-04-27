@@ -1,5 +1,5 @@
 site_name: Passport
 
 nav:
-  - Reference: reference.md
-  - Changelog: changelog.md
+  - Overview: overview.md
+  - Login Gateway: logingw.md

@@ -1,4 +1,4 @@
-site_name: My First Test DocsMK Project
+site_name: Test DocsMK Project And Deploy To Github Page
 
 nav:
   - Home: index.md
