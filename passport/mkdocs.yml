@@ -1,0 +1,5 @@
+site_name: Passport
+
+nav:
+  - Reference: reference.md
+  - Changelog: changelog.md

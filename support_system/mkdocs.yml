@@ -1,0 +1,5 @@
+site_name: GT_Support_System
+
+nav:
+  - Reference: reference.md
+  - Changelog: changelog.md
