@@ -11,8 +11,8 @@ nav:
   - GT:
     - Support System: '!include ./support_system/mkdocs.yml'
     - Promotion: '!include ./promotion/mkdocs.yml'
-    - Passport: '!include ./passport/mkdocs.yml'
-
+    - Passport: '!include ./passport/passport/mkdocs.yml'
+    - Web Shop: '!include ./webshop/mkdocs.yml'
 plugins:
   - monorepo
  

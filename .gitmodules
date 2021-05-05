@@ -1,0 +1,6 @@
+[submodule "passport"]
+	path = passport
+	url = https://github.com/tanoli081296/passport.git
+[submodule "webshop"]
+	path = webshop
+	url = https://gitlab.com/namnp081296/webshop.git
